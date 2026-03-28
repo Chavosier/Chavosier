@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🌱 I’m currently learning as a senior high shool student.
 <!--
 **Chavosier/Chavosier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
