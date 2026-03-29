@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Chavosier.
 
 🌱 I’m currently learning as a senior high shool student.
 <!--
